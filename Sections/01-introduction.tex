@@ -1,0 +1,135 @@
+%*----------- SLIDE -------------------------------------------------------------
+% \begin{frame}[t]{Introdução} 
+    
+%     \begin{tikzpicture}[thick , scale=1, every  node/.style={scale =0.75}]
+%         \node[at=(current  page.center)]
+%         {
+%             \input{./Source/r-graphics/m1qtdfalhas.tex}
+%         };
+%     \end{tikzpicture}
+
+%     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+% \end{frame}
+
+%-
+%*----------- SLIDE -------------------------------------------------------------
+% \begin{frame}[t]{Introdução}
+
+%     \begin{figure}
+%         \subfloat[1° Mês]
+%         \centering
+%         {
+%         \begin{tikzpicture}
+%             \begin{tikzpicture}[thick , scale=0.5, every  node/.style={scale =0.5}]
+%                 \node[at=(current  page.center)]
+%                 {
+%                     \input{./Source/r-graphics/m1qtdfalhas.tex}
+%                 };
+%             \end{tikzpicture}
+%         \end{tikzpicture}
+%         }
+%         \subfloat[2° Mês]
+%         \centering
+%         {
+%         \begin{tikzpicture}
+%             \begin{tikzpicture}[thick , scale=0.5, every  node/.style={scale =0.5}]
+%                 \node[at=(current  page.center)]
+%                 {
+%                     \input{./Source/r-graphics/m2qtdfalhas.tex}
+%                 };
+%             \end{tikzpicture}
+%         \end{tikzpicture}
+%         }
+%         \subfloat[3° Mês]
+%         \centering
+%         {
+%         \begin{tikzpicture}
+%             \begin{tikzpicture}[thick , scale=0.5, every  node/.style={scale =0.5}]
+%                 \node[at=(current  page.center)]
+%                 {
+%                     \input{./Source/r-graphics/m3qtdfalhas.tex}
+%                 };
+%             \end{tikzpicture}
+%         \end{tikzpicture}
+%         }
+%         \end{figure}
+
+%     \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+% \end{frame}
+
+%*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[c]{Quantidade de paradas}
+    \centering
+    \begin{figure}
+        \includegraphics[ width=1\textwidth]{qtdparadas.png}
+        %\caption{.}
+    \end{figure}
+
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+%-
+
+%*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[c]{Tempo de parada}
+    \centering
+    \begin{figure}
+        \includegraphics[ width=1\textwidth]{tempoparada.png}
+        %\caption{.}
+    \end{figure}
+
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+%-
+%*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[c]{Tempo de parada}
+    \centering
+    \begin{figure}
+        \includegraphics[ width=1\textwidth]{pareto.png}
+        %\caption{.}
+    \end{figure}
+
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+%-
+
+%*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[c]{Análise do problema}
+    \begin{table}[ht!]
+        \centering
+            \caption{Análise considerando a planta}
+            \begin{tabular}{|l|c|c|c|} \hline
+                \textbf{Dados}&\textbf{Mês 1}&\textbf{Mês 2}&\textbf{Mês 3}\\ \hline
+                Quantidade de falhas & 25  & 25  & 25\\ \hline
+                Tempo parada &  165 min  & 432 min  &  199 min\\ \hline
+                Tempo operacional & 9600 min & 9600 min & 9600 min \\ \hline
+                Tempo disponível & 9435 min  & 9168 min  & 9401 min\\ \hline
+                MTBF  & 6.29 h  & 6.112 h &  6.267 h\\ \hline
+                MTTR  & 6.6 min  & 17.28 min &  7.96 min\\ \hline
+            \end{tabular}
+        \end{table}
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+%-
+
+%*----------- SLIDE -------------------------------------------------------------
+\begin{frame}[c]{Análise do problema}
+    \centering
+        \begin{table}[ht!]
+            \centering
+                \caption{Análise considerando os equipamentos}
+                \begin{tabular}{|l|c|c|c|} \hline
+                    \textbf{Dados}&\textbf{Open Gate - B}&\textbf{Pinça Automática}&\textbf{Robô}\\ \hline
+                    Quantidade de falhas & 35  & 23  & 6\\ \hline
+                    Tempo parada &  252 min  & 145 min  &  300 min\\ \hline
+                    MTTR  & 7.2 min  & 6.30 min &  50 min\\ \hline
+                \end{tabular}
+            \end{table}
+
+%*----------- notes
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+%-
