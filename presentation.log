@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.7)  17 JAN 2022 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.7)  17 JAN 2022 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1364,69 +1364,69 @@ LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/senai/atv-statistics/Template/rosa-logo.png> </home/senai/atv-statistics/Template/logosenaicimatecnegativo.png>] (/home/senai/atv-statistics/Sections/01-introduction.tex
-<Source/pictures/qtdparadas.png, id=71, 1711.39375pt x 516.93124pt>
-File: Source/pictures/qtdparadas.png Graphic file (type png)
-<use Source/pictures/qtdparadas.png>
-Package pdftex.def Info: Source/pictures/qtdparadas.png  used on input line 70.
-(pdftex.def)             Requested size: 400.61703pt x 121.00558pt.
+<Source/pictures/qtd-paradas.png, id=71, 1526.70375pt x 483.8075pt>
+File: Source/pictures/qtd-paradas.png Graphic file (type png)
+<use Source/pictures/qtd-paradas.png>
+Package pdftex.def Info: Source/pictures/qtd-paradas.png  used on input line 95.
+(pdftex.def)             Requested size: 400.61703pt x 126.95338pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 70.
+(Font)              size <20.74> substituted on input line 95.
 
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 70.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
-[2
-
- </home/senai/atv-statistics/Source/pictures/qtdparadas.png> </home/senai/atv-statistics/Template/logosenaicimatec2020.png>]
-<Source/pictures/tempoparada.png, id=83, 1721.43124pt x 516.93124pt>
-File: Source/pictures/tempoparada.png Graphic file (type png)
-<use Source/pictures/tempoparada.png>
-Package pdftex.def Info: Source/pictures/tempoparada.png  used on input line 83.
-(pdftex.def)             Requested size: 400.61703pt x 120.2957pt.
-File: Template/logosenaicimatec2020.png Graphic file (type png)
-<use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 83.
-(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [3
-
- </home/senai/atv-statistics/Source/pictures/tempoparada.png>]
-<Source/pictures/pareto.png, id=92, 1711.39375pt x 516.93124pt>
-File: Source/pictures/pareto.png Graphic file (type png)
-<use Source/pictures/pareto.png>
-Package pdftex.def Info: Source/pictures/pareto.png  used on input line 95.
-(pdftex.def)             Requested size: 400.61703pt x 121.00558pt.
 File: Template/logosenaicimatec2020.png Graphic file (type png)
 <use Template/logosenaicimatec2020.png>
 Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 95.
 (pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
- [4
+[2
+
+ </home/senai/atv-statistics/Source/pictures/qtd-paradas.png> </home/senai/atv-statistics/Template/logosenaicimatec2020.png>]
+<Source/pictures/pareto.png, id=83, 1711.39375pt x 516.93124pt>
+File: Source/pictures/pareto.png Graphic file (type png)
+<use Source/pictures/pareto.png>
+Package pdftex.def Info: Source/pictures/pareto.png  used on input line 108.
+(pdftex.def)             Requested size: 400.61703pt x 121.00558pt.
+File: Template/logosenaicimatec2020.png Graphic file (type png)
+<use Template/logosenaicimatec2020.png>
+Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 108.
+(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ [3
 
  </home/senai/atv-statistics/Source/pictures/pareto.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 115.
+<Source/pictures/tempo-total.png, id=92, 1004.75375pt x 482.80376pt>
+File: Source/pictures/tempo-total.png Graphic file (type png)
+<use Source/pictures/tempo-total.png>
+Package pdftex.def Info: Source/pictures/tempo-total.png  used on input line 120.
+(pdftex.def)             Requested size: 320.49484pt x 153.9994pt.
+File: Template/logosenaicimatec2020.png Graphic file (type png)
+<use Template/logosenaicimatec2020.png>
+Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 120.
+(pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
+ [4
+
+ </home/senai/atv-statistics/Source/pictures/tempo-total.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 140.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 115.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 140.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 115.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 140.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
 File: Template/logosenaicimatec2020.png Graphic file (type png)
 <use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 115.
+Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 140.
 (pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
  [5
 
 ]
 File: Template/logosenaicimatec2020.png Graphic file (type png)
 <use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 134.
+Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 159.
 (pdftex.def)             Requested size: 42.5485pt x 9.3333pt.
  [6
 
@@ -1466,14 +1466,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  34685 strings out of 481239
- 719677 string characters out of 5920378
+ 719683 string characters out of 5920378
  1122235 words of memory out of 5000000
  49108 multiletter control sequences out of 15000+600000
  541975 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,17n,88p,1014b,1134s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /home/senai/atv-statistics/presentation.pdf (7 pages, 1582140 bytes).
+Output written on /home/senai/atv-statistics/presentation.pdf (7 pages, 1582707 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
